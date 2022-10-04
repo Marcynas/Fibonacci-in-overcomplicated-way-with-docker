@@ -2,7 +2,6 @@
 
 This project was done to learn docker.
 Multi-container application.
-Kind of production ready.
 
 ```mermaid
 graph LR;
